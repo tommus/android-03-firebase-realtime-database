@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "735308304886",
+    "firebase_url": "https://test-auth-itcraft.firebaseio.com",
+    "project_id": "test-auth-itcraft",
+    "storage_bucket": "test-auth-itcraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735308304886:android:1a84bf178b6850bc",
+        "android_client_info": {
+          "package_name": "pl.itcraft.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735308304886-kudk92tn4u30ge9tjg35j1qrdjk55m3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8CffNUkcro97FVre5dF742M-wMO1Kwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735308304886:android:17d617b3b31be745",
+        "android_client_info": {
+          "package_name": "pl.itcraft.firebasedatabasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735308304886-kudk92tn4u30ge9tjg35j1qrdjk55m3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8CffNUkcro97FVre5dF742M-wMO1Kwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
